@@ -1,0 +1,42 @@
+/* Empty. Add your own CSS if you like */
+.trans{
+	background:rgba(255,255,255,0.2);
+	text-align:center;
+	color: red;
+}
+.setengah{
+	width:68%;
+	text-align:center;
+}
+.mod{
+	background:#111111;
+	padding:10px;
+	text-align:center;
+}
+.p{
+	background:#111;
+
+}
+.fleft{
+	float:left;
+	font-weight:bold;
+	color: white;
+}
+.frigth{
+	float:right;
+	color: white;
+}
+.warn{
+	background:#111111;
+	color: red;
+}
+.icon{
+	font-size:20px;
+	padding:0 20px;
+}
+.clear{
+	clear:both;
+}
+.rgb{
+	background:rgb(255,128,128);
+}

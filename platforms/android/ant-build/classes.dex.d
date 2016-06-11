@@ -1,0 +1,21 @@
+C:\ombing\myapp\platforms\android\ant-build\classes.dex : \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$3.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\color430992\BuildConfig.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\color430992\CordovaApp.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\color430992\R$attr.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\color430992\R$drawable.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\color430992\R$string.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\color430992\R$xml.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\color430992\R.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\myapp627480\BuildConfig.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\myapp627480\CordovaApp.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\myapp627480\R$attr.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\myapp627480\R$drawable.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\myapp627480\R$string.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\myapp627480\R$xml.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\com\ionicframework\myapp627480\R.class \
+C:\ombing\myapp\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\ombing\myapp\platforms\android\ant-build\dexedLibs\classes-77a4cdc042c5534bf7d8d7474129184e.jar \
